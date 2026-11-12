@@ -1,0 +1,5 @@
+Scenario,Extra purchases,Extra revenue,Revenue uplift %
+Checkout → Purchase +1 pts,35.24,38385.68489555557,3.262962962962964
+Checkout → Purchase +2 pts,70.48,76771.36979111114,6.525925925925928
+Checkout → Purchase +5 pts,176.2,191928.42447777782,16.314814814814817
+Checkout → Purchase +10 pts,352.4,383856.84895555564,32.62962962962963

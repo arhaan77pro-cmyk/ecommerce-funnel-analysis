@@ -1,0 +1,10 @@
+
+EXECUTIVE SUMMARY
+-----------------
+1. Scope: 10,000 sessions, 01 Oct 2025 to 31 Oct 2025. Overall conversion (Browse to Purchase): 10.8%.
+2. Biggest leak: Checkout → Purchase, where 69.4% of sessions drop out (2,444 sessions).
+3. Device gap at that step: Mobile converts at 31.4% vs Tablet at 29.3% (difference 2.1 pts, p = 0.273, not significant). With about 1,157 sessions per device, only gaps of roughly 5.4 pts or more could be detected reliably.
+4. Channels: Organic has the highest overall conversion (11.2%), Email the lowest (10.2%). Channel differences are not statistically significant at any funnel step.
+5. Statistically significant segment effects after Bonferroni correction: none. No segment effect is detectable at this sample size, so the leak looks funnel-wide rather than segment-specific.
+6. Revenue: total 1,176,406, average order value 1,089.26. A 5 point improvement at Checkout → Purchase is worth about 191,928 in extra revenue (16.3%).
+7. Data caveats: 56% of sessions change device between events (first-event attributes are used), and Bounce_Flag equals "did not purchase" in 100.0% of sessions, so it is not a genuine bounce metric (sections 3, 5, 11).
